@@ -1,0 +1,60 @@
+body { 
+    
+    color: red;
+    font-family: Comic Sans MS, Impact, sans-serif;
+    margin-bottom: 500px;
+}
+
+.black-border {
+    border: 5px solid black;
+}
+
+#green-background {
+    background-color: green;
+}
+
+nav ul li {
+    display: inline;
+    padding: 0px 50px;
+}
+
+p {
+    background-color: cyan;
+}
+
+h1 {
+    font-size: 42px;
+    color: #0088FF;
+}
+
+h2 {
+    font-size: 28px;
+    background-color: salmon;
+}
+
+h3 {
+    font-size: larger;
+}
+
+ul.black-border {
+    width: 200px;
+    color: purple
+}
+
+main, header, article, section, footer {
+    border: 3px solid mediumseagreen;
+    border-radius: 20px;
+    margin: 10px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding: 10px 20px;
+}
+
+footer {
+    margin:auto;
+    width: 30%;
+    min-width: 100px;
+    text-align: center;
+}
